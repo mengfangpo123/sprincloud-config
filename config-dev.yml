@@ -1,6 +1,6 @@
 
 config: 
-  info: master-dev-37
+  info: master-dev-38
 feign:
   hystrix:
     enabled: false  #如果处理自身的容错就开启。开启方式与生产端不一样。  
